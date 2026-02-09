@@ -1,11 +1,11 @@
 <?php
 /*
  * Plugin Name: Easy-count
- * Plugin URI: https://example.com
+ * Plugin URI: https://mp-weblab.com
  * Description: Compteur de visites sous forme de widget proposant une interface admin avec des statistiques détaillées et un cookie paramétrable (min/h/j/m).
  * Version: 1.0
- * Author: Crabouille777
- * License: GPLv3
+ * Author: mp-weblab
+ * License: GPLv2+
  * License URI: https://www.gnu.org/licenses/gpl-3.0.html
  * Text Domain: easy-count
  *
