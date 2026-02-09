@@ -1,0 +1,50 @@
+.easy-count-widget-container {
+  width: auto;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.easy-count-title {
+  color: inherit;
+  font-weight: inherit;
+  font-family: inherit;
+  font-size: inherit;
+  line-height: inherit;
+}
+
+
+.easy-count-digits {
+  font-size: inherit;
+  font-weight: inherit;
+  display: inline-flex;
+  justify-content: center;
+  gap: 0.3em;
+  letter-spacing: inherit;
+  color: inherit;
+  font-family: inherit;
+}
+
+
+.easy-count-digit {
+  color: inherit;
+  font-family: inherit;
+  display: inline-block;
+}
+
+.easy-count-digits span {
+  display: inline-block;
+  min-width: 1ch;
+  text-align: center;
+  color: inherit;
+  font-family: inherit;
+  font-weight: inherit;
+  font-size: inherit;
+  line-height: inherit;
+}
+
+@media (max-width: 480px) {
+  .easy-count-digits {
+    font-size: 1.1em;
+    gap: 2px;
+  }
+}

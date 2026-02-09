@@ -1,0 +1,16 @@
+📁 assets
+│   📁 css
+│   │   🎨 style.css
+│   📁 js
+│   │   📜 admin-charts.js
+│   │   📜 easy-count-inline-style.js
+🐘 easy-count.php
+📁 includes
+│   🐘 class-easy-count-admin.php
+│   🐘 class-easy-count-logger.php
+│   🐘 class-easy-count-widget.php
+│   🐘 class-easy-count.php
+│   🐘 functions.php
+📄 README.md
+📄 readme.md
+🐘 uninstall.php
