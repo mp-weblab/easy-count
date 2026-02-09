@@ -12,6 +12,7 @@ Il combine un **compteur affichable via widget** et un **tableau de bord statist
 ## Note de l'auteur :
 
 mp-weblab
+
 Ce plugin est distribué gratuitement dans un esprit de partage.
 Merci de ne pas le vendre ou monétiser sous une forme quelconque.
 
