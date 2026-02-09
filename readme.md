@@ -1,11 +1,17 @@
 # Easy-Count – Compteur de visites avancé 📊
 
+[![Licence : GPL v2+](https://img.shields.io/badge/Licence-GPL%20v2%2B-blue.svg)](LICENSE)
+[![WordPress compatible](https://img.shields.io/badge/WordPress-6.6%2B-brightgreen.svg)](https://wordpress.org/)
+[![PHP compatible](https://img.shields.io/badge/PHP-8.3%2B-8892BF.svg)](https://www.php.net/)
+[![Version](https://img.shields.io/badge/version-1.0.0-blue.svg)](#)
+
 **Easy-Count** est un plugin WordPress léger et performant permettant de compter et d’analyser les visites de votre site grâce à des statistiques détaillées et visuelles directement accessibles depuis l’interface d’administration.
 
 Il combine un **compteur affichable via widget** et un **tableau de bord statistique** clair, basé sur des données horaires, quotidiennes, hebdomadaires et mensuelles.
 
 ## Note de l'auteur :
 
+mp-weblab
 Ce plugin est distribué gratuitement dans un esprit de partage.
 Merci de ne pas le vendre ou monétiser sous une forme quelconque.
 
