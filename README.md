@@ -5,7 +5,6 @@
 [![PHP compatible](https://img.shields.io/badge/PHP-8.3%2B-8892BF.svg)](https://www.php.net/)
 [![Version](https://img.shields.io/badge/version-1.0.0-blue.svg)](#)
 
-Easy-Count est un plugin WordPress de comptage de visites avec statistiques avancées et visualisation graphique dans l’interface d’administration
 Easy-Count est un plugin WordPress de comptage de visites (widget) avec statistiques avancées et visualisation graphique dans l’interface d’administration.
 
 Ce dépôt contient l’intégralité du code source du plugin.
