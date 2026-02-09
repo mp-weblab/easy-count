@@ -4,6 +4,11 @@
 
 Il combine un **compteur affichable via widget** et un **tableau de bord statistique** clair, basé sur des données horaires, quotidiennes, hebdomadaires et mensuelles.
 
+## Note de l'auteur :
+
+Ce plugin est distribué gratuitement dans un esprit de partage.
+Merci de ne pas le vendre ou monétiser sous une forme quelconque.
+
 ---
 
 ## 🚀 Fonctionnalités
